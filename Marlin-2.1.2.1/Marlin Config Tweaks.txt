@@ -1,0 +1,3 @@
+ESteps: 94.76
+Z-Offset: -1.65
+Linear Advance: .04
